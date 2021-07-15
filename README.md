@@ -23,9 +23,9 @@ Tarefa | Dificuldade (0 a 10) | Data de Entrega Estimada | Status |
 Definir tema da loja|1|13/07|Concluído|
 Definir paleta de cores|2|13/07|Concluído|
 Criar repositório|4|14/07|Concluído|
-Organizar Imagens dos produtos|3|14/07|Em andamento|
-Iniciar o HTML da página principal|6|15/07|Não iniciado|
-Finalizar Sprint|7|16/07|Em andamento|
+Organizar Imagens dos produtos|3|14/07|Concluído|
+Iniciar o HTML da página principal|6|15/07|Concluído|
+Finalizar Sprint|7|16/07|Concluído|
 
 **Observação:** Gosto de definir a paleta de cores primeiro, pois me auxilia no processo criativo e na visualização do projeto.
 
@@ -44,3 +44,4 @@ Iniciar estilização das páginas CSS |7|19/07|Não iniciado|
 Finalizar estilização das páginas CSS |7|21/07|Não iniciado|
 Revisão e ajuste final **se necessário**|5|22/07|Não iniciado|
 Finalizar Sprint|8|23/07|Não iniciado|
+
