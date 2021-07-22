@@ -14,8 +14,7 @@
 }
 
 .valor {
-    display: inline-flex;
-    float: right;
-    padding: 5px;
+    display: flex;
+    justify-content: center;
     font-weight: 500;
 }
