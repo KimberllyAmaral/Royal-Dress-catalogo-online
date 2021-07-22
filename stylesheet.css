@@ -11,10 +11,16 @@
 
 #produtos {
     padding-top: 10px;
+    padding-bottom: 40px;
 }
 
 .valor {
     display: flex;
     justify-content: center;
     font-weight: 500;
+}
+
+#footer {
+    border-top: 1px solid;
+    padding: 10px;
 }
