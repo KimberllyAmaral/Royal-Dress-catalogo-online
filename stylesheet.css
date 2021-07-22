@@ -12,3 +12,9 @@
 #produtos {
     padding-top: 10px;
 }
+
+.valor {
+    float: right;
+    padding: 5px;
+    font-weight: 500;
+}
