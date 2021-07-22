@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+#head {
+    border-bottom: 1px solid;
+    border-color: black;
+}
