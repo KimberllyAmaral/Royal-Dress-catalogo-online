@@ -21,6 +21,17 @@
 }
 
 #footer {
-    border-top: 1px solid;
+    padding: 20px;
+    background-color: rgb(241, 239, 239);
+}
+
+.caontainerRedesocial {
+    display: flex;
+    justify-content: center;
+}
+
+i {
+    font-size: 40px;
     padding: 10px;
+    
 }
