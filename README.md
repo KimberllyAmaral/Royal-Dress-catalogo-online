@@ -35,13 +35,13 @@ Finalizar Sprint|7|16/07|Concluído|
 
 Tarefa | Dificuldade (0 a 10) | Data de Entrega | Status |
 -------|:--------------------:|:---------------:|:-------|
-Criar descrição e preço dos produtos|1|17/07|Não iniciado|
-Finalizar o HTML da página principal|6|17/07|Não iniciado|
-Iniciar o HTML da página do produto|6|17/07|Não iniciado|
-Iniciar o HTML da página institucional|6|17/07|Não iniciado|
-Finalizar o HTML das páginas|6|19/07|Não iniciado|
-Iniciar estilização das páginas CSS |7|19/07|Não iniciado|
-Finalizar estilização das páginas CSS |7|21/07|Não iniciado|
-Revisão e ajuste final **se necessário**|5|22/07|Não iniciado|
-Finalizar Sprint|8|23/07|Não iniciado|
+Criar descrição e preço dos produtos|1|17/07|Concluído|
+Finalizar o HTML da página principal|6|17/07|Concluído|
+Iniciar o HTML da página do produto|6|17/07|Concluído|
+Iniciar o HTML da página institucional|6|17/07|Concluído|
+Finalizar o HTML das páginas|6|19/07|Concluído|
+Iniciar estilização das páginas CSS |7|19/07|Concluído|
+Finalizar estilização das páginas CSS |7|21/07|Concluído|
+Revisão e ajuste final **se necessário**|5|22/07|Concluído|
+Finalizar Sprint|8|23/07|Concluído|
 
